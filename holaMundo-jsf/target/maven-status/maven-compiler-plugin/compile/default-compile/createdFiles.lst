@@ -1,0 +1,6 @@
+com\prueba\controller\TextProcesation.class
+com\prueba\JakartaRestConfiguration.class
+com\prueba\model\TextInput.class
+com\prueba\model\TextOutput.class
+beans\configuration\ConfigurationJSF.class
+com\prueba\resources\JakartaEE11Resource.class
